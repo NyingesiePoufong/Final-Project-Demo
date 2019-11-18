@@ -18,10 +18,10 @@
 - Clone the repo
 - In termimal run 'npm install' to install node modules
 - Run 'node server.js'
-- Navigate to localhost:8000
+- Navigate to localhost:TBD
 
 
 ## Usage
 
 1. Run `node server.js`
-2. Navigate to `localhost:8000`
+2. Navigate to `localhost:TDB`
